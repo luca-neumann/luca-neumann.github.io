@@ -58,27 +58,36 @@ const Projects = ref([
         image: '/vwgt-success-hero-alpenpro.jpg',
         title: '3rd place state competition',
         description: "We produce protein bars and muesli from brewer's grains and other regional ingredients. Our products are natural, healthy, vegan, and free from palm oil, sugar, and sweeteners. Ideal for people who value health, regionality, and sustainability.",
-        technologies: ['Finance', 'Accounting'],
+        technologies: ['Finance', 'Accounting', 'Competition', 'Event'],
         webURL: 'https://www.vwgt.at/erfolgsgeschichte/alpenpro/'
     },
     {
         id: 2,
         category: 'AlpenPro',
-        image: '/tiroler-junior-landeswettbewerb.jpg',
-        title: 'WKO Competition',
-        description: "The team from the third-place junior company AlpenPro is rethinking food and reimagining a forgotten ingredient. Brewer's grains, a byproduct of beer brewing, are becoming the main ingredient in tasty muesli bars and breakfast cereals.",
-        technologies: ['Finance', 'Accounting'],
-        webURL: 'https://www.wko.at/tirol/news/schueler-i.kess-gewinnen-den-tiroler-junior-landeswettbewerb-2'
+        image: '/Gruppenfoto_HTL_MCI_Creativity_Award_2024.jpg',
+        title: 'MCI Creativity Award',
+        description: "For the first time, six student teams from HTL Anichstraße took part in the MCI Creativity Award 2024, three of which presented their entrepreneurial idea to an expert jury. The student team AlpenPro emerged as the winner.",
+        technologies: ['Finance', 'Accounting', 'Event'],
+        webURL: 'https://www.mci.edu/de/medien/news/5768-creativity-award-2024'
     },
     {
         id: 3,
         category: 'AlpenPro',
+        image: '/tiroler-junior-landeswettbewerb.jpg',
+        title: 'WKO Competition',
+        description: "The team from the third-place junior company AlpenPro is rethinking food and reimagining a forgotten ingredient. Brewer's grains, a byproduct of beer brewing, are becoming the main ingredient in tasty muesli bars and breakfast cereals.",
+        technologies: ['Finance', 'Accounting', 'Competition', 'Event'],
+        webURL: 'https://www.wko.at/tirol/news/schueler-i.kess-gewinnen-den-tiroler-junior-landeswettbewerb-2'
+    },
+    {
+        id: 4,
+        category: 'AlpenPro',
         image: '/alpen-pro4.jpg',
         title: 'Vienna trade fair',
         description: "The young people from the HTL Anichstraße (Innsbruck, Tyrol) also source their spent grain for their company AlpenPro from a nearby brewery.",
-        technologies: ['Finance', 'Accounting'],
+        technologies: ['Finance', 'Accounting', 'Event'],
         webURL: 'https://kijuku.at/bildung/schmackhaftes-aus-geretteten-abfaellen-von-obst-gemuese-und-bierproduktion/'
-    },
+    }
 ]);
 
 const selectedCategory = ref('all');
