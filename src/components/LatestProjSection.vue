@@ -55,7 +55,7 @@ const Projects = ref([
     {
         id: 1,
         category: 'AlpenPro',
-        image: 'src/assets/vwgt-success-hero-alpenpro.jpg',
+        image: '/vwgt-success-hero-alpenpro.jpg',
         title: '3rd place state competition',
         description: "We produce protein bars and muesli from brewer's grains and other regional ingredients. Our products are natural, healthy, vegan, and free from palm oil, sugar, and sweeteners. Ideal for people who value health, regionality, and sustainability.",
         technologies: ['Finance', 'Accounting'],
@@ -64,7 +64,7 @@ const Projects = ref([
     {
         id: 2,
         category: 'AlpenPro',
-        image: 'src/assets/tiroler-junior-landeswettbewerb.jpg',
+        image: '/tiroler-junior-landeswettbewerb.jpg',
         title: 'WKO Competition',
         description: "The team from the third-place junior company AlpenPro is rethinking food and reimagining a forgotten ingredient. Brewer's grains, a byproduct of beer brewing, are becoming the main ingredient in tasty muesli bars and breakfast cereals.",
         technologies: ['Finance', 'Accounting'],
@@ -73,7 +73,7 @@ const Projects = ref([
     {
         id: 3,
         category: 'AlpenPro',
-        image: 'src/assets/alpen-pro4.jpg',
+        image: '/alpen-pro4.jpg',
         title: 'Vienna trade fair',
         description: "The young people from the HTL Anichstraße (Innsbruck, Tyrol) also source their spent grain for their company AlpenPro from a nearby brewery.",
         technologies: ['Finance', 'Accounting'],
