@@ -71,7 +71,7 @@ const Skills =ref([
     {
         id:5,
         name:'Excel',
-        width:'60%'
+        width:'75%'
     },
 ]);
 

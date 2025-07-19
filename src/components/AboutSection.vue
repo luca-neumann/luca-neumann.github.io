@@ -29,12 +29,11 @@
                     Luca
                 </h2>
                 <p class="text-base lg:text-lg mt-8 py-8">
-                    Luca Neumann is a student at HTL Anichstraße in Innsbruck, specializing in Industrial Engineering and Business Informatics. 
-                    With a solid understanding of economics and technical expertise, he has a keen interest in financial markets, 
-                    strategic management, and innovative technologies. As the CFO of AlpenPro Junior Company, Luca gained valuable 
-                    experience in corporate finance and leadership early on. His goal is to pursue a career in investment banking, 
-                    where he can influence financial strategies and business decisions. Luca is known for his dedication, analytical mindset, 
-                    and passion for solving entrepreneurial challenges.
+                    Luca Neumann was a student at HTL Anichstraße in Innsbruck, where he specialized in Industrial Engineering and Business Informatics. 
+                    With a solid understanding of economics and technical expertise, he developed a keen interest in financial markets, strategic management, 
+                    and innovative technologies. As the CFO of AlpenPro Junior Company, Luca gained valuable experience in corporate finance and leadership early on. 
+                    His goal has been to pursue a career in investment banking, where he can influence financial strategies and business decisions. 
+                    Luca is known for his dedication, analytical mindset, and passion for solving entrepreneurial challenges.
                 </p>
                 <div class="grid grid-cols-3 gap-4 max-w-lg pt-8">
                     <!--<div class="text-center rounded-xl bg-[#111a3e] shadow-lg border border-[#1f1641] p-3">

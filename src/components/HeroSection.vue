@@ -15,9 +15,9 @@
                         </h1>
                     </div>
                     <p class="text-gray-300 pt-8 text-center lg:text-left mx-auto max-w-xl">
-                        Luca Neumann is a student at HTL Anichstraße in Innsbruck, specializing in Industrial Engineering and Business Informatics. 
-                        He combines a strong understanding of economics with technical expertise and has a keen interest in financial markets, 
-                        strategic management, and forward-thinking technologies.
+                        Luca Neumann was a student at HTL Anichstraße in Innsbruck, where he specialized in Industrial Engineering and Business Informatics. 
+                        He combined a strong understanding of economics with technical expertise and had a keen interest in financial markets, strategic management, 
+                        and forward-thinking technologies. He is now focusing on his university studies at WU Vienna (Vienna University of Economics and Business).
                     </p>
                     <!--
                     <div class="flex items-center gap-3 pt-9 flex-col sm:flex-row sm:w-max sm:mx-auto lg:mx-0">
