@@ -37,7 +37,7 @@
     </header>
 </template>
 <script setup>
-import { ref } from 'vue';
+import { ref, onMounted } from 'vue';
 const Menu =ref([
     //{name:'Services',href:'#services'},
     {name:'About',href:'#about'},
@@ -56,4 +56,38 @@ const scrollToSection =(href)=>{
     }
 
 }
+
+// JSON-LD Script in Head hinzufügen
+onMounted(() => {
+     if (!document.querySelector('script[type="application/ld+json"]')) {
+        const script = document.createElement('script');
+        script.type = 'application/ld+json';
+        script.text = JSON.stringify({
+            '@context': 'https://schema.org',
+            '@type': 'Person',
+            name: 'Luca Neumann',
+            url: 'https://lucaneumann.com',
+            sameAs: [
+            'https://www.linkedin.com/in/lucaneumann/',
+            'https://www.instagram.com/_lucaneumann_/',
+            ],
+            alumniOf: {
+            '@type': 'EducationalOrganization',
+            name: 'HTL Anichstraße',
+            url: 'https://htlinn.ac.at/',
+            },
+            affiliation: {
+            '@type': 'Organization',
+            name: 'AlpenPro Junior Company',
+            },
+            jobTitle: 'Student',
+            worksFor: {
+            '@type': 'CollegeOrUniversity',
+            name: 'WU Vienna – Vienna University of Economics and Business',
+            url: 'https://www.wu.ac.at',
+            },
+        });
+        document.head.appendChild(script);
+    }
+});
 </script>
