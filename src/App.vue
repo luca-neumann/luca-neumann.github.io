@@ -65,7 +65,7 @@ useHead({
     { name: 'twitter:image', content: 'https://lucaneumann.com/icon.svg' },
   ],
   link: [
-    { rel: 'icon', href: '/icon.svg' },
+    { rel: 'icon', type: 'image/svg+xml', href: '/icon.svg' },
   ]
 })
 

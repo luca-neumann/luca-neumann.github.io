@@ -17,8 +17,9 @@
                     <p class="text-gray-300 pt-8 text-center lg:text-left mx-auto max-w-xl">
                         Luca Neumann was a student at HTL Anichstraße in Innsbruck, where he specialized in Industrial Engineering and Business Informatics. 
                         He combined a strong understanding of economics with technical expertise and had a keen interest in financial markets, strategic management, 
-                        and forward-thinking technologies. He is now focusing on his university studies at WU Vienna (Vienna University of Economics and Business).
+                        and forward-thinking technologies.
                     </p>
+                    <!-- He is now focusing on his university studies at WU Vienna (Vienna University of Economics and Business). -->
                     <!--
                     <div class="flex items-center gap-3 pt-9 flex-col sm:flex-row sm:w-max sm:mx-auto lg:mx-0">
                         <button class="px-6 md:px-7 py-3 rounded-full relative group w-full sm:w-max flex justify-center">
@@ -50,7 +51,7 @@
                     <div class="flex w-full h-96 min-h-[24rem] lg:min-h-[none] lg:w-full lg:h-full items-center relative">
                         <div class="absolute z-0 top-1/2 -translate-y-1/2 w-5/6 right-0 h-[calc(80%+20px)] bg-gradient-to-tr opacity-25 from-[#570cac] to-primary blur-2xl"></div>
                         <div class="absolute h-full z-10 p-2 -translate-y-1/2 top-1/2 lg:right-3 md:right-40 sm:right-16 rounded-full shadow-lg border border-primary">
-                            <img src="@/assets/Luca_Neumann.png" alt="Hero pic" width="500" height="auto" loading="lazy"
+                            <img src="@/assets/Luca_2026.png" alt="Hero pic" width="500" height="auto" loading="lazy"
                             class="w-full h-full rounded-full object-cover"
                             >
                         </div>
