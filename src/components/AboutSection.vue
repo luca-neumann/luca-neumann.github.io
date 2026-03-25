@@ -29,11 +29,9 @@
                     Luca
                 </h2>
                 <p class="text-base lg:text-lg mt-8 py-8">
-                    Luca Neumann was a student at HTL Anichstraße in Innsbruck, where he specialized in Industrial Engineering and Business Informatics. 
-                    With a solid understanding of economics and technical expertise, he developed a keen interest in financial markets, strategic management, 
-                    and innovative technologies. As the CFO of AlpenPro Junior Company, Luca gained valuable experience in corporate finance and leadership early on. 
-                    His goal has been to pursue a career in investment banking, where he can influence financial strategies and business decisions. 
-                    Luca is known for his dedication, analytical mindset, and passion for solving entrepreneurial challenges.
+                    Luca Neumann graduated from HTL Anichstraße with a focus on industrial engineering, business, and software development. During his time as CFO of AlpenPro Junior Company, he gained early experience in financial management, accounting, and strategic decision-making, generating over €4,000 in revenue and achieving multiple awards, including 1st place at the MCI Creativity Award.
+                <br />
+                    In addition, Luca gained practical banking experience at Raiffeisen Bank, where he worked in a client-facing environment and supported daily financial operations. Alongside his professional development, he is actively involved in JA Alumni Austria, where he progressed from Buddy (mentor) to Event Manager, organizing national events and connecting students and young professionals.
                 </p>
                 <div class="grid grid-cols-3 gap-4 max-w-lg pt-8">
                     <!--<div class="text-center rounded-xl bg-[#111a3e] shadow-lg border border-[#1f1641] p-3">
@@ -42,6 +40,9 @@
                     </div>-->
                     <div class="text-center rounded-xl bg-[#111a3e] shadow-lg border border-[#1f1641] p-3">
                         <img src="@/assets/HTL_Anichstrasse.png" class="w-13 h-13 mx-auto">
+                    </div>
+                    <div class="text-center rounded-xl bg-[#111a3e] shadow-lg border border-[#1f1641] p-3">
+                        <img src="@/assets/Raiffeisenbank.png" class="w-13 h-13 mx-auto">
                     </div>
                     <div class="text-center rounded-xl bg-[#111a3e] shadow-lg border border-[#1f1641] p-3">
                         <img src="@/assets/AlpenPro.png" class="w-13 h-13 mx-auto">

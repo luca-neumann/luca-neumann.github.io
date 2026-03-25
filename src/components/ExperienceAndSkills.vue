@@ -78,21 +78,15 @@ const Skills =ref([
 const Experinces =ref([
     {
         id:1,
-        role:'CFO',
-        company:'Junior-Company AlpenPro',
-        date:'Sep 2023 - Jun 2024'
+        role:'Banking Intern (Retail Banking / Customer Service)',
+        company:'Raiffeisen-Landesbank Tirol AG (Raiffeisen Banking Group)',
+        date:'Apr 2026 – Present'
     },
     {
         id:2,
-        role:'Internship CMS',
-        company:'World Direct',
-        date:'Aug 2023 - Aug 2023'
-    },
-    {
-        id:3,
-        role:'Internship Healthcare',
-        company:'World Direct',
-        date:'Aug 2022 - Aug 2022'
-    },
+        role:'CFO',
+        company:'Junior-Company AlpenPro',
+        date:'Sep 2023 - Jun 2024'
+    }
 ])
 </script>

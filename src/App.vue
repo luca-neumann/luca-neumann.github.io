@@ -45,7 +45,7 @@ import { useHead } from '@vueuse/head';
 useHead({
   title: 'Luca Neumann | Portfolio',
   meta: [
-    { name: 'description', content: 'Official portfolio of Luca Neumann – HTL Anichstraße, Industrial Engineering & Business Informatics.' },
+    { name: 'description', content: 'Official portfolio of Luca Neumann – graduate of HTL Anichstraße, Industrial Engineering & Business Informatics.' },
     { name: 'keywords', content: 'Luca Neumann, HTL Anichstraße, Portfolio, Junior Company, AlpenPro, Investment Banking' },
     { name: 'author', content: 'Luca Neumann' },
     { name: 'viewport', content: 'width=device-width, initial-scale=1.0' },
@@ -53,7 +53,7 @@ useHead({
 
     // Open Graph
     { property: 'og:title', content: 'Luca Neumann – Portfolio' },
-    { property: 'og:description', content: 'Projects, news, and skills of Luca Neumann – student at HTL Anichstraße.' },
+    { property: 'og:description', content: 'Projects, news, and skills of Luca Neumann – graduate of HTL Anichstraße.' },
     { property: 'og:image', content: 'https://lucaneumann.com/icon.svg' },
     { property: 'og:url', content: 'https://lucaneumann.com' },
     { property: 'og:type', content: 'website' },

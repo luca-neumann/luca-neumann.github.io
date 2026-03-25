@@ -15,9 +15,9 @@
                         </h1>
                     </div>
                     <p class="text-gray-300 pt-8 text-center lg:text-left mx-auto max-w-xl">
-                        Luca Neumann was a student at HTL Anichstraße in Innsbruck, where he specialized in Industrial Engineering and Business Informatics. 
-                        He combined a strong understanding of economics with technical expertise and had a keen interest in financial markets, strategic management, 
-                        and forward-thinking technologies.
+                        Luca Neumann is a graduate of HTL Anichstraße in Innsbruck, where he specialized in Industrial Engineering and Business Informatics. He developed a strong foundation in both business and technology, combined with a growing interest in finance and capital markets.
+                        <br />
+                        Currently, he is working as a Banking Intern at Raiffeisen Bank, gaining hands-on experience in client advisory, financial operations, and retail banking.
                     </p>
                     <!-- He is now focusing on his university studies at WU Vienna (Vienna University of Economics and Business). -->
                     <!--
