@@ -78,7 +78,7 @@ const Skills =ref([
 const Experinces =ref([
     {
         id:1,
-        role:'Banking Intern (Retail Banking / Customer Service)',
+        role:'Banking Intern – Personal & Business Banking',
         company:'Raiffeisen-Landesbank Tirol AG (Raiffeisen Banking Group)',
         date:'Apr 2026 – Present'
     },
